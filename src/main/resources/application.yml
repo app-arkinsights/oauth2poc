@@ -1,0 +1,11 @@
+server:
+  port: 9445
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: b0faba39491f4cacd375
+            clientSecret: ba3cc879a4f9b49b524b945b46bf32c61bb5315e
